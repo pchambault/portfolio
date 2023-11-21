@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The satellite tracking of 98 bowhead whales over an 11-year period (2001–2011) in Baffin Bay - West Greenland enabled to investigate the environmental drivers (specifically sea surface temperature and sea ice) involved in bowhead whale’s movements. Movement patterns differed seasonally, with aggregations of whales found at higher latitudes during spring and summer likely in response to sea ice retreat and increasing sea temperature (SST) facilitated by the warm West Greenland Current. In contrast, the whales moved further south in response to sea temperature decrease during autumn and winter. Statistical models indicated that the whales targeted a narrow range of SSTs from −0.5 to 2°C. Sea surface temperatures are predicted to undergo a marked increase in the Arctic, which could expose bowhead whales to both thermal stress and altered stratification and vertical transport of water masses.\n\n\n\nMaps of the weekly averaged SST (in °C) derived from Copernicus in March (a), May (b), July (c), September (d), November (e) and January (f) 2010–2011. Positions of bowhead whales are indicated with red dots and the green lines stand for the −1 °C isotherm (freezing point). The number of tracked individuals per week is noted at the top right of each panel.\n\n\nNot only the distribution of Arctic cetaceans is expected to be impacted by climate change, but we also we assume that the population dynamics of narwhals are partly influenced by changes in environmental conditions, with warm areas of increasing sea temperatures having lower abundance of narwhals. Using a unique large dataset of 144 satellite tracked narwhals, sea surface temperature (SST) data spanning 25 years (1993–2018) and narwhal abundance estimates from 17 localities, we (1) assessed the thermal exposure of this species, (2) investigated the SST trends at the summer foraging grounds, and (3) assessed the relationship between SST and abundance of narwhals. We showed a sharp SST increase in Northwest, Mideast and Southeast Greenland, whereas no change could be detected in the Canadian Arctic Archipelago (CAA) and in the Greenland Sea. The rising sea temperatures were correlated with the smallest narwhal abundance observed in the Mideast and Southeast Greenland (&lt; 2000 individuals), where the mean summer sea temperatures were the highest (6.3 °C) compared to the cold waters of the CAA (0.7 °C) that were associated with the largest narwhal populations (&gt; 40,000 individuals).\n\n\n\nScatterplots showing the relationship between SST and narwhal abundance (left) and density (right)."
+  },
+  {
+    "objectID": "research.html#a-methodological-framework-to-predict-the-individual-and-population-level-distributions-from-tracking-data",
+    "href": "research.html#a-methodological-framework-to-predict-the-individual-and-population-level-distributions-from-tracking-data",
+    "title": "Research",
+    "section": "A methodological framework to predict the individual and population-level distributions from tracking data",
+    "text": "A methodological framework to predict the individual and population-level distributions from tracking data\nBy running classical SDMs (population approach) with mixed models including a random factor to account for the variability attributable to individual (individual approach), we propose an innovative five-steps framework to predict the potential and individual-level distributions of mobile species using GPS data collected from green turtles. Pseudo-absences were randomly generated following an environmentally-stratified procedure. A negative exponential dispersal kernel was incorporated into the individual model to account for spatial fidelity, while five environmental variables derived from high-resolution Lidar and hyperspectral data were used as predictors of the species distribution in generalized linear models. Both approaches showed a strong predictive power (mean: AUC &gt; 0.93, CBI &gt; 0.88) and goodness-of-fit (0.6 &lt; adjusted R2 &lt; 0.9), but differed geographically with favorable habitats restricted around the tagging locations for the individual approach whereas favorable habitats from the population approach were more widespread. Our innovative way to combine predictions from both approaches into a single map provides a unique scientific baseline to support conservation planning and management of many taxa. Our framework is easy to implement and brings new opportunities to exploit existing tracking dataset, while addressing key ecological questions such as inter-individual plasticity and social interactions. \n\n\n\nConceptual diagram of the methodology used in this study, including the five steps described in the Methods section. The diagram was simplified to two individuals (ID1 and ID2) and four dispersal coefficients (DC). Env. refers to the five environmental predictors."
+  },
+  {
+    "objectID": "research.html#predicting-the-spatial-distribution-of-sperm-whales-using-machine-learning",
+    "href": "research.html#predicting-the-spatial-distribution-of-sperm-whales-using-machine-learning",
+    "title": "Research",
+    "section": "Predicting the spatial distribution of sperm whales using machine learning",
+    "text": "Predicting the spatial distribution of sperm whales using machine learning\nOur study (a) investigated the seasonal movements, (b) predicted the potential distribution, and (c) assessed the diel vertical behavior of this species in the Mascarene Archipelago in the south-west Indian Ocean. Using 21 satellite tracks of sperm whales and eight environmental predictors, 14 supervised machine learning algorithms were tested and compared to predict the whales’ potential distribution during the wet and dry season, separately. The best performing algorithm was the random forest, showing a strong affinity of the whales for sea surface height during the wet season and for bottom temperature during the dry season. A more dispersed distribution was predicted during the wet season, whereas a more restricted distribution to Mauritius and Reunion waters was found during the dry season, probably related to the breeding period. The results of our study fill a knowledge gap regarding seasonal movements and habitat affinities of this vulnerable species, for which a regional IUCN assessment is still missing in the Indian Ocean. Our findings also confirm the great potential of machine learning algorithms in conservation planning and provide highly reproductible tools to support dynamic ocean management.\n\n\n\nAveraged prediction maps of the sperm whales’ probabilities during the (a, b) wet and (c, d) dry seasons calculated from the tuned random forest model (a, c) and the stacking method (b, d). 0 indicates a very low probability to see a whale and 1 a high probability to see a whale."
+  },
+  {
+    "objectID": "WARMM_project.html",
+    "href": "WARMM_project.html",
+    "title": "The WARMM project",
+    "section": "",
+    "text": "The WARMM project (Warming ocean And Responses of Arctic Marine Mammals) aims at investigating and predicting the behavioral and physiological responses of Arctic cetaceans to climate-induced perturbations. Despite their crucial role as bio-indicators of the Arctic marine ecosystem, the capacity of Arctic cetaceans to adjust their behavior and physiology to climate-induced perturbations remains poorly understood. This is largely due to (i) the logistical difficulties in capturing and tagging these animals that spend their entire life at-sea. (ii) The short time-series and small sample size that are commonly available from tracking dataset also limit the use of robust predictive models. Finally, (iii) the lack of physiological studies also contributes to our misunderstanding of how these cold-tolerant species will adapt to an imminent thermal stress. To overcome these limitations, the WARMM project will combine biologging techniques and eco-physiology in animals both in the wild and in human-care facilities (Long Marine Lab-UCSC and Georgia Aquarium in the United States and Sea Life Trust in Iceland).\nThis project is funded by a 3-year EU MSCA fellowship that was hosted between the University of California Santa Cruz (Santa Cruz, USA) and the Greenland Institute of Natural Resources (Copenhagen, Denmark).\n\nProgress in 2023\nA second article has been published in Biology Letters in February 2023. This second publication on the prey capture efficiency of narwhals shows the extremely low prey capture success of narwhals in summer (&lt;14% of the foraging dives were successful) despite an intense foraging activity (706.9±368 buzzes per day per individual).\n\n\n\nCover page of the second paper published in February 2023 in Biology Letters.\n\n\nIn parallel, the development of a new tag measuring the heat transfer between the whale’s body and its environment was initiated to investigate the physiological responses of Arctic whales to rising sea temperatures. Specifically, this heat flux tag aims at investigating when the whales dump or gain heat during and after exercise. I worked during 9 months with CATS (Customized Animal Tracking Solutions) based in Australia, to design the adequate heat flux tag capable of being deployed for several hours on different cetacean species such as dolphins, belugas and narwhals using a non-invasive technique. It was our intention to develop a non-invasive attachment using suction cups for ethical considerations, but also because we plan to work with animals in human-care held in different facilities opened to visitors (e.g., Georgia Aquarium in USA, Sea Life Trust in Iceland). The heat flux tag is composed of two main components:\n1) The main recorder that includes six different sensors: light, pressure (e.g., animal’s depth), water temperature, 3D accelerometer (e.g., animal’s body motion), gyroscope and magnetometer.\n2) Two heat flux discs connected to the recorder that measure skin temperature and heat flow.\nIn parallel to studies on the three Arctic whale species endemic to the Arctic, another project focuses on the diving behavior and energetics of a sub-Arctic species, the harbour porpoises in Greenland. An article on the light-mediated diving behavior of Greenland harbour porpoises has been submitted in July 2023 to Scientific Reports and recently received a positive review. This manuscript shows that harbour porpoises experiencing contrasted light cycles at high latitude adjust their diving behavior in response to the reduction of daylength, diving deeper during the darkest months, likely to follow the vertical migration of their prey at night. This finding suggests a strategy in which this mesopelagic predator take advantage of the long period of darkness in the Arctic winter to maximize food intake while minimizing energy expenditure.\n\n\nProgress in 2022\nThe first project’s article has been published in Science Advances in July 2022. In this paper, we predict current and project future distribution of the three cetacean species endemic to the Arctic (the beluga whale, the narwhal and the bowhead whale) under different climate change scenarios. Compiling satellite tracking of 227 individuals in the Atlantic sector of the Arctic, this article projects a serious habitat loss for the three species by 2100, with differences among species, sub-populations and seasons.\n\n\n\nCover page of the first paper published in July 2022 in the journal Science Advances."
+  },
+  {
+    "objectID": "publications2.html",
+    "href": "publications2.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Chambault, Blackwell et al. 2023. “Extremely Low Seasonal Prey Capture Efficiency in a Deep Diving Whale, the Narwhal.” Biology Letters. 19(2). 20220423. https://doi.org/10.1098/rsbl.2022.0423.\nHeide‐Jørgensen, Chambault et al. 2023. “A Regime Shift in the Southeast Greenland Marine Ecosystem.” Global Change Biology. 29(3). 668–85. https://doi.org/doi.org/10.1111/gcb.16494."
+  },
+  {
+    "objectID": "publications2.html#section",
+    "href": "publications2.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Chambault, Blackwell et al. 2023. “Extremely Low Seasonal Prey Capture Efficiency in a Deep Diving Whale, the Narwhal.” Biology Letters. 19(2). 20220423. https://doi.org/10.1098/rsbl.2022.0423.\nHeide‐Jørgensen, Chambault et al. 2023. “A Regime Shift in the Southeast Greenland Marine Ecosystem.” Global Change Biology. 29(3). 668–85. https://doi.org/doi.org/10.1111/gcb.16494."
+  },
+  {
+    "objectID": "publications2.html#section-1",
+    "href": "publications2.html#section-1",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nChambault, Kovacs et al. 2022. “Future seasonal changes in habitat for Arctic whales during predicted ocean warming”. Science Advances. 8(29). eabn2422. https://www.science.org/doi/full/10.1126/sciadv.abn2422"
+  },
+  {
+    "objectID": "publications2.html#section-2",
+    "href": "publications2.html#section-2",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nChambault, Fossette et al. 2021. “Predicting Seasonal Movements and Distribution of the Sperm Whale Using Machine Learning Algorithms.” Ecology and Evolution. 11(3). 1432–45. https://doi.org/doi.org/10.1002/ece3.7154.\nChambault, Gaspar et al. 2021. “Ecological Trap or Favorable Habitat? First Evidence That Immature Sea Turtles May Survive at Their Range-Limits in the North-East Atlantic.” Frontiers in Marine Science. 8. 736604. https://doi.org/10.3389/fmars.2021.736604.\nChambault, Hattab et al. 2021. “A Methodological Framework to Predict the Individual and Population-Level Distributions from Tracking Data.” Ecography. 44(5). 766–777. https://doi.org/doi.org/10.1111/ecog.054364."
+  },
+  {
+    "objectID": "publications2.html#section-3",
+    "href": "publications2.html#section-3",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nChambault, Tervo et al. 2020. “The impact of rising sea temperatures on an Arctic top predator, the narwhal”. Scientific Reports. 10(1). 1‑10. doi.org/10.1038/s41598‑020‑75658‑6\nChambault, Dalleau et al. 2020. “Contrasted Habitats and Individual Plasticity Drive the Fine Scale Movements of Juvenile Green Turtles in Coastal Ecosystems.” Movement Ecology 8. 1–5. https://doi.org/doi.org/10.1186/s40462-019-0184-2.\nSiegwalt, […] Chambault et al. 2020. “High Fidelity of Sea Turtles to Their Foraging Grounds Revealed by Satellite Tracking and Capture-Mark-Recapture: New Insights for the Establishment of Key Marine Conservation Areas.” Biological Conservation. 250. 108742. https://doi.org/doi.org/10.1016/j.biocon.2020.108742."
+  },
+  {
+    "objectID": "publications2.html#section-4",
+    "href": "publications2.html#section-4",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\nBonola, […] Chambault et al. 2019. “Fine Scale Geographic Residence and Annual Primary Production Drive Body Condition of Wild Immature Green Turtles (Chelonia Mydas) in Martinique Island (Lesser Antilles).” Biology Open. 8(12). https://doi.org/bio048058.\nChambault, Baudena et al. 2019. “Swirling in the Ocean: Immature Loggerhead Turtles Seasonally Target Old Anticyclonic Eddies at the Fringe of the North Atlantic Gyre.” Progress in Oceanography. 175. 345–58. https://doi.org/doi.org/10.1016/j.pocean.2019.05.005."
+  },
+  {
+    "objectID": "publications2.html#section-5",
+    "href": "publications2.html#section-5",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nChambault, Albertsen et al. 2018. “Sea Surface Temperature Predicts the Movements of an Arctic Cetacean: The Bowhead Whale.” Scientific Reports. 8(1). 9658. https://doi.org/10.1038/s41598-018-27966-1.\nChambault, de Thoisy et al. 2018. “Connecting Paths Between Juvenile and Adult Habitats in the Atlantic Green Turtle Using Genetics and Satellite Tracking.” Ecology and Evolution. 8(24). 12790–802. https://doi.org/doi.org/10.1002/ece3.4708.\nNivière, Chambault et al. 2018. “Identification of Marine Key Areas Across the Caribbean to Ensure the Conservation of the Critically Endangered Hawksbill Turtle.” Biological Conservation. 223. 170–80. https://doi.org/10.1016/j.biocon.2018.05.002.\nChambault, Vandeperre et al. 2018. “Distribution and Composition of Floating Litter Off the Azores Archipelago and Madeira (NE Atlantic) Using Opportunistic Surveys.” Marine Environmental Research. 141. 225–32. https://doi.org/doi.org/10.1016/j.marenvres.2018.09.015."
+  },
+  {
+    "objectID": "publications2.html#section-6",
+    "href": "publications2.html#section-6",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\nChambault, Roquet et al. 2017. “The Gulf Stream Frontal System: A Key Oceanographic Feature in the Habitat Selection of the Leatherback Turtle?” Deep Sea Research Part I. 123. 35–47. https://doi.org/10.1016/j.dsr.2017.03.003.\nChambault, Giraudou et al. 2017. “Habitat Use and Diving Behaviour of Gravid Olive Ridley Sea Turtles Under Riverine Conditions in French Guiana.” Journal of Marine Systems. 165. 115–23. https://doi.org/10.1016/j.jmarsys.2016.10.005."
+  },
+  {
+    "objectID": "publications2.html#section-7",
+    "href": "publications2.html#section-7",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\nChambault, De Thoisy et al. 2016. “Inter-nesting behavioural adjustments of green turtles to an estuarine habitat in French Guiana”. Marine Ecology Progress Series. 555. 235-248. https://www.int-res.com/abstracts/meps/v555/p235-248/.\nChambault, De Thoisy et al. 2016. “The Influence of Oceanographic Features on the Foraging Behavior of the Olive Ridley Sea Turtle Lepidochelys Olivacea Along the Guiana Coast.” Progress in Oceanogrpahy. 142. 58–71. https://doi.org/10.1016/j.pocean.2016.01.006"
+  },
+  {
+    "objectID": "publications2.html#section-8",
+    "href": "publications2.html#section-8",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\nChambault, Pinaud et al. 2015. “Dispersal and Diving Adjustments of the Green Turtle Chelonia Mydas in Response to Dynamic Environmental Conditions During Post-Nesting Migration.” Plos One. 10(9). https://doi.org/e0137340.\nBaudouin, […] Chambault et al. 2015. “Identification of Key Marine Areas for Conservation Based on Satellite Tracking of Post-Nesting Migrating Green Turtles (Chelonia Mydas).” Biological Conservation. 184. 36–41. https://doi.org/10.1016/j.biocon.2014.12.021."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Philippine Chambault | Marine Scientist",
+    "section": "",
+    "text": "I am a marine biologist interested into the movement ecology and ecophysiology of marine megafauna species, from marine mammals to sea turtles. By using satellite tracking and biologging devices, I investigate the relationships between the distribution-diving behavior of these highly mobile animals and their environment, particularly in relation to oceanographic features."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "I am a Marie Skłodowska-Curie postdoctoral fellow investigating the consequences of climate change on Arctic marine mammals. Based between the University of California Santa Cruz (United States) and the Greenland Institute of Natural Reosurces (Denmark), my work uses biologging devices deployed on both wild populations and animals held in human-care to assess the behavioral and physiological responses of Arctic cetaceans to rising sea temperatures.\n\n\n\nUniversity of Strasbourg | Strasbourg, France\nPhD in Quantitative Ecology & Oceanography (2017)\nUniversity Pierre et Marie Curie | Paris, France\nMSc in Oceanography (2013)\n\n\n\nUniversity of California Santa Cruz, USA | Marie Curie postdoc fellow | Oct 2021-present\nAquarium La Rochelle, France | Postdoc fellow | Jan-Jun 2021\nGreenland Institute of Natural Resources, Denmark | Postdoc fellow | May-Dec 2020\nIFREMER - MARBEC, France | Postdoc fellow | Nov 2018-Apr 2020\nUniversity of the Azores - DOP, Portugal | Apr-Sep 2018\nGreenland Institute of Natural Resources, Denmark | Postdoc fellow | Oct 2017-Apr 2018\n\n\n\n\nphilippine.chambault@gmail.com"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Presentation",
+    "section": "",
+    "text": "University of Strasbourg | Strasbourg, France\nPhD in Quantitative Ecology & Oceanography (2017)\nUniversity Pierre et Marie Curie | Paris, France\nMSc in Oceanography (2013)"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Presentation",
+    "section": "",
+    "text": "University of California Santa Cruz, USA | Marie Curie postdoc fellow | Oct 2021-present\nAquarium La Rochelle, France | Postdoc fellow | Jan-Jun 2021\nGreenland Institute of Natural Resources, Denmark | Postdoc fellow | May-Dec 2020\nIFREMER - MARBEC, France | Postdoc fellow | Nov 2018-Apr 2020\nUniversity of the Azores - DOP, Portugal | Apr-Sep 2018\nGreenland Institute of Natural Resources, Denmark | Postdoc fellow | Oct 2017-Apr 2018"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Presentation",
+    "section": "",
+    "text": "philippine.chambault@gmail.com"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  }
+]

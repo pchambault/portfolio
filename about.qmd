@@ -1,9 +1,55 @@
 ---
-title: "About"
+about:
+  template: trestles
+  image: Phil_pic.jpg
+  image-width: 20em
+  image-shape: rectangle
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/home?lang=fr
+    - icon: github
+      text: Github
+      href: https://github.com/pchambault
+    - icon: Researchgate
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Philippine-Chambault
 ---
 
-About this site
+# Presentation
 
-```{r}
-1 + 1
-```
+::: {#center}
+I am a Marie Skłodowska-Curie postdoctoral fellow investigating the consequences of climate change on Arctic marine mammals. Based between the University of California Santa Cruz (United States) and the Greenland Institute of Natural Reosurces (Denmark), my work uses biologging devices deployed on both wild populations and animals held in human-care to assess the behavioral and physiological responses of Arctic cetaceans to rising sea temperatures.
+:::
+
+## Education
+
+**University of Strasbourg** \| Strasbourg, France
+
+PhD in Quantitative Ecology & Oceanography (2017)
+
+**University Pierre et Marie Curie** \| Paris, France
+
+MSc in Oceanography (2013)
+
+## Experience
+
+**University of California Santa Cruz**, USA \| Marie Curie postdoc fellow \| Oct 2021-present
+
+**Aquarium La Rochelle**, France \| Postdoc fellow \| Jan-Jun 2021
+
+**Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| May-Dec 2020
+
+**IFREMER - MARBEC**, France \| Postdoc fellow \| Nov 2018-Apr 2020
+
+**University of the Azores** **- DOP**, Portugal \| Apr-Sep 2018
+
+**Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| Oct 2017-Apr 2018
+
+## Contact
+
+<div>
+
+philippine.chambault\@gmail.com
+
+</div>

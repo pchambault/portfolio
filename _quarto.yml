@@ -2,18 +2,40 @@ project:
   type: website
 
 website:
-  title: "portfolio"
+  title: "Philippine Chambault"
+  sidebar:
+    style: "docked"
+    search: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      # - href: index.qmd
+      #   text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: WARMM_project.qmd
+        text: The WARMM project
+      - href: publications2.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
 
+# editor: visual
+        
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: flatly #sandstone #solar # minty
     toc: true
+    toc-depth: 1
+    lof: true
+    lot: true
 
-editor: visual
+
+
+
+
+
+
+
 

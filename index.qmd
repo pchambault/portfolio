@@ -1,11 +1,9 @@
 ---
-title: "portfolio"
+title: "Philippine Chambault | Marine Scientist "
 ---
 
-This is a Quarto website.
+::: {#center}
+I am a marine biologist interested into the movement ecology and ecophysiology of marine megafauna species, from marine mammals to sea turtles. By using satellite tracking and biologging devices, I investigate the relationships between the distribution-diving behavior of these highly mobile animals and their environment, particularly in relation to oceanographic features.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](Photos/PSX_20231029_180442.jpg){width="3960"}

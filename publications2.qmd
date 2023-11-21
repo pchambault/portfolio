@@ -1,0 +1,63 @@
+---
+title: Publications
+---
+
+## 2023
+
+**Chambault**, Blackwell et al. 2023. "Extremely Low Seasonal Prey Capture Efficiency in a Deep Diving Whale, the Narwhal." *Biology Letters*. *19*(2). 20220423. <https://doi.org/10.1098/rsbl.2022.0423>.
+
+Heide‐Jørgensen, **Chambault** et al. 2023. "A Regime Shift in the Southeast Greenland Marine Ecosystem." *Global Change Biology.* 29(3). 668--85. <https://doi.org/doi.org/10.1111/gcb.16494>.
+
+## 2022
+
+**Chambault**, Kovacs et al. 2022. "Future seasonal changes in habitat for Arctic whales during predicted ocean warming". *Science Advances*. *8*(29). eabn2422. <https://www.science.org/doi/full/10.1126/sciadv.abn2422>
+
+## 2021
+
+**Chambault**, Fossette et al. 2021. "Predicting Seasonal Movements and Distribution of the Sperm Whale Using Machine Learning Algorithms." *Ecology and Evolution.* 11(3). 1432--45. <https://doi.org/doi.org/10.1002/ece3.7154>.
+
+**Chambault**, Gaspar et al. 2021. "Ecological Trap or Favorable Habitat? First Evidence That Immature Sea Turtles May Survive at Their Range-Limits in the North-East Atlantic." *Frontiers in Marine Science.* 8. 736604. <https://doi.org/10.3389/fmars.2021.736604>.
+
+**Chambault**, Hattab et al. 2021. "A Methodological Framework to Predict the Individual and Population-Level Distributions from Tracking Data." *Ecography.* 44(5). 766--777. <https://doi.org/doi.org/10.1111/ecog.054364>.
+
+## 2020
+
+**Chambault**, Tervo et al. 2020. "The impact of rising sea temperatures on an Arctic top predator, the narwhal". *Scientific Reports*. 10(1). 1‑10. [doi.org/10.1038/s41598‑020‑75658‑6](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2022.0423)
+
+**Chambault**, Dalleau et al. 2020. "Contrasted Habitats and Individual Plasticity Drive the Fine Scale Movements of Juvenile Green Turtles in Coastal Ecosystems." *Movement Ecology* 8. 1--5. <https://doi.org/doi.org/10.1186/s40462-019-0184-2>.
+
+Siegwalt, \[...\] **Chambault** et al. 2020. "High Fidelity of Sea Turtles to Their Foraging Grounds Revealed by Satellite Tracking and Capture-Mark-Recapture: New Insights for the Establishment of Key Marine Conservation Areas." *Biological Conservation.* 250. 108742. <https://doi.org/doi.org/10.1016/j.biocon.2020.108742>.
+
+## 2019
+
+Bonola, \[...\] **Chambault** et al. 2019. "Fine Scale Geographic Residence and Annual Primary Production Drive Body Condition of Wild Immature Green Turtles (*Chelonia Mydas*) in Martinique Island (Lesser Antilles)." *Biology Open.* 8(12). <https://doi.org/bio048058>.
+
+**Chambault**, Baudena et al. 2019. "Swirling in the Ocean: Immature Loggerhead Turtles Seasonally Target Old Anticyclonic Eddies at the Fringe of the North Atlantic Gyre." *Progress in Oceanography.* 175. 345--58. <https://doi.org/doi.org/10.1016/j.pocean.2019.05.005>.
+
+## 2018
+
+**Chambault**, Albertsen et al. 2018. "Sea Surface Temperature Predicts the Movements of an Arctic Cetacean: The Bowhead Whale." *Scientific Reports.* 8(1). 9658. <https://doi.org/10.1038/s41598-018-27966-1>.
+
+**Chambault**, de Thoisy et al. 2018. "Connecting Paths Between Juvenile and Adult Habitats in the Atlantic Green Turtle Using Genetics and Satellite Tracking." *Ecology and Evolution.* 8(24). 12790--802. <https://doi.org/doi.org/10.1002/ece3.4708>.
+
+Nivière, **Chambault** et al. 2018. "Identification of Marine Key Areas Across the Caribbean to Ensure the Conservation of the Critically Endangered Hawksbill Turtle." *Biological Conservation.* 223. 170--80. <https://doi.org/10.1016/j.biocon.2018.05.002>.
+
+**Chambault**, Vandeperre et al. 2018. "Distribution and Composition of Floating Litter Off the Azores Archipelago and Madeira (NE Atlantic) Using Opportunistic Surveys." *Marine Environmental Research.* 141. 225--32. <https://doi.org/doi.org/10.1016/j.marenvres.2018.09.015>.
+
+## 2017
+
+**Chambault**, Roquet et al. 2017. "The Gulf Stream Frontal System: A Key Oceanographic Feature in the Habitat Selection of the Leatherback Turtle?" *Deep Sea Research Part I.* 123. 35--47. <https://doi.org/10.1016/j.dsr.2017.03.003>.
+
+**Chambault**, Giraudou et al. 2017. "Habitat Use and Diving Behaviour of Gravid Olive Ridley Sea Turtles Under Riverine Conditions in French Guiana." *Journal of Marine Systems.* 165. 115--23. <https://doi.org/10.1016/j.jmarsys.2016.10.005>.
+
+## 2016
+
+**Chambault**, De Thoisy et al. 2016. "Inter-nesting behavioural adjustments of green turtles to an estuarine habitat in French Guiana". *Marine Ecology Progress Series*. *555*. 235-248. <https://www.int-res.com/abstracts/meps/v555/p235-248/>.
+
+**Chambault**, De Thoisy et al. 2016. "The Influence of Oceanographic Features on the Foraging Behavior of the Olive Ridley Sea Turtle *Lepidochelys Olivacea* Along the Guiana Coast." *Progress in Oceanogrpahy.* 142. 58--71. <https://doi.org/10.1016/j.pocean.2016.01.006>
+
+## 2015
+
+**Chambault**, Pinaud et al. 2015. "Dispersal and Diving Adjustments of the Green Turtle *Chelonia Mydas* in Response to Dynamic Environmental Conditions During Post-Nesting Migration." *Plos One.* 10(9). <https://doi.org/e0137340>.
+
+Baudouin, \[...\] **Chambault** et al. 2015. "Identification of Key Marine Areas for Conservation Based on Satellite Tracking of Post-Nesting Migrating Green Turtles (*Chelonia Mydas)*." *Biological Conservation.* 184. 36--41. <https://doi.org/10.1016/j.biocon.2014.12.021>.
