@@ -1,5 +1,6 @@
 ---
 title: Publications
+bibliography: references.bib
 ---
 
 ## 2023

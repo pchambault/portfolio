@@ -1,0 +1,52 @@
+---
+title: "Skills"
+sidebar:
+  sections: 
+    - name: Skills
+      items:
+        - text: R
+          exp: 
+            text: "10+ yrs."
+            num: 1
+        - text: Rmarkdown
+          exp: 
+            text: "6 yrs."
+            num: 0.6
+        - text: Quarto
+          exp: 
+            text: "1 yr."
+            num: 0.1
+        - text: Data Analysis
+          exp: 
+            text: "9 years"
+            num: 0.9
+execute: 
+  echo: false
+---
+
+# Analytical
+- Data wrangling: structuring, cleaning, filtering, enriching
+- Data analysis: statistics, modelling, machine learning, spatial analysis (Species Distribution Models, State Space Models)
+- Data visualization: distributions, geospatial, temporal, correlations, comparisons, hierarchical, animated plots
+- Writing: scientific publications, grant proposals
+
+# Programming
+- R (10+ yrs)
+- R Markdown (6 yrs)
+- Quarto (2 yrs)
+- LaTeX (7 yrs)
+- ArcGIS (5 yrs)
+
+
+# R packages
+- tidyverse, data.table, DT
+- caret, ncdf4, aniMotum
+- ggplot2
+
+
+# Languages
+- French (native)
+- English (fluent, TOEFL)
+- Spanish (beginner)
+
+
