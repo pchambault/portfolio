@@ -16,7 +16,7 @@ website:
         text: Research
       - href: WARMM_project.qmd
         text: The WARMM project
-      - href: publications.qmd
+      - href: publications2.qmd
         text: Publications
       - href: cv.qmd
         text: CV
