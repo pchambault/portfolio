@@ -2,9 +2,12 @@
 title: Publications
 bibliography: references.bib
 ---
+
 ## 2024
 
-
+Lelong, [...], **Chambault**, et al. "Demography of endangered juvenile green turtles in face of environmental changes: 10 years of capture-mark-recapture efforts in Martinique". *Biology Conservation*. *291*. 110471. <https://www.sciencedirect.com/science/article/abs/pii/S0006320724000326}{j.biocon.2024.110471>.
+  
+**Chambault**, et al. "The nightscape of the Arctic winter shapes the diving behavior of a marine predator". **Scientific Reports**. **14**(1). 3908. <https://www.nature.com/articles/s41598-024-53953-w>.
 
 ## 2023
 
