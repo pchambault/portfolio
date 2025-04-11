@@ -19,8 +19,47 @@ about:
 # Presentation
 
 ::: {#center}
-I am a Marie Skłodowska-Curie postdoctoral fellow investigating the consequences of climate change on Arctic marine mammals. Based between the University of California Santa Cruz (United States) and the Greenland Institute of Natural Resources (Denmark), my work uses biologging devices deployed on both wild populations and animals held in human-care to assess the behavioral and physiological responses of Arctic cetaceans to rising sea temperatures.
+From international Academia to Private industry in Denmark, __data enthusiast scientist__ with 12 yrs of experience specializing in statistical modelling and spatial analysis. __Programming in R__ using large spatio-temporal and environmental datasets, I bring a strong statistical background and scientific rigour. I am eager to apply my analytical expertise and problem-solving skills to drive innovation and business impact in the private sector. 
+
++ __Strengths__: Structured (daily markdown reports), Writing & Reporting (secured a €290,000 grant).
++ __Work Ethics__: Deliver on time (task list fan!), Detail oriented & Meticulous (consistent double-checking). 
++ __Communication__: Attended 13  conferences (3 awards), Translated science to non-specialists (3MT winner).
++ __Technical Skills__: Statistical Modelling (proficient in R for 12 yrs), Data Visualization (Organized  workshops).  
++ __Ambition__: Transition from Academia to the Industry to focus fully on data analysis while seeking an opportunity to contribute to a real-world impact in the Private sector.
+<!-- I am a Marie Skłodowska-Curie postdoctoral fellow investigating the consequences of climate change on Arctic marine mammals. Based at the Greenland Institute of Natural Resources (Copenhagen, Denmark), my work uses biologging devices deployed on both wild populations and animals held in human-care to assess the behavioral and physiological responses of Arctic cetaceans to rising sea temperatures. -->
 :::
+
+
+## Experience
+
+**Marie Curie postdoc fellow**, Copenhagen, Denmark \| Greenland Institute of Natural Resources \| Oct 2023-Present
+
+**Marie Curie postdoc fellow**, USA \| University of California Santa Cruz \| Oct 2021-Sep 2023
+
+**Data Scientist**, France \| Aquarium La Rochelle \| Jan-Jun 2021
+
+**Postdoc fellow**, Denmark \| Greenland Institute of Natural Resources\| May-Dec 2020
+
+**Data Scientist**, France \| French Research Institute for Exploitation of the Sea \| Nov 2018-Apr 2020
+
+**Postdoc fellow**, Portugal \| University of the Azores \| Apr-Sep 2018
+
+**Postdoc fellow**, Denmark \| Greenland Institute of Natural Resources \| Oct 2017-Apr 2018
+
+<!-- **Greenland Institute of Natural Resources**, Copenhagen, Denmark \| Marie Curie postdoc fellow \| Oct 2023-Present -->
+
+<!-- **University of California Santa Cruz**, USA \| Marie Curie postdoc fellow \| Oct 2021-Sep 2023 -->
+
+<!-- **Aquarium La Rochelle**, France \| Data Scientist \| Jan-Jun 2021 -->
+
+<!-- **Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| May-Dec 2020 -->
+
+<!-- **IFREMER - MARBEC**, France \| Data Scientist \| Nov 2018-Apr 2020 -->
+
+<!-- **University of the Azores** **- DOP**, Portugal \| Apr-Sep 2018 -->
+
+<!-- **Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| Oct 2017-Apr 2018 -->
+
 
 ## Education
 
@@ -32,21 +71,10 @@ PhD in Quantitative Ecology & Oceanography (2017)
 
 MSc in Oceanography (2013)
 
-## Experience
+**Ecole Supérieure d'Agriculture** \| Angers, France
 
-**Greenland Institute of Natural Resources**, Denmark \| Marie Curie postdoc fellow \| Oct 2023-Present
+MSc in Agricultural Sciences & Agronomy (2011)
 
-**University of California Santa Cruz**, USA \| Marie Curie postdoc fellow \| Oct 2021-Sep 2023
-
-**Aquarium La Rochelle**, France \| Postdoc fellow \| Jan-Jun 2021
-
-**Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| May-Dec 2020
-
-**IFREMER - MARBEC**, France \| Postdoc fellow \| Nov 2018-Apr 2020
-
-**University of the Azores** **- DOP**, Portugal \| Apr-Sep 2018
-
-**Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| Oct 2017-Apr 2018
 
 ## Contact
 
