@@ -10,7 +10,7 @@ Example of the analysis carried out to project the future distribution of Arctic
 Illustrative analysis exploring narwhal foraging success using stomach temperature pills, dive profiles, and acoustic tag data.
 <iframe src="Markdown/BioLett2022_Narwhals_STPs_Events_corrected.html" width="100%" height="600px" style="border:none;"></iframe>
 
-# Unsupervised Learning
+# Unsupervised Learnings
 Unsupervised learning approach using harbour porpoise dive data to classify distinct diving behaviours.
 <iframe src="Markdown/Dive_Clustering_Sequences_HP.html" width="100%" height="600px" style="border:none;"></iframe>
 
