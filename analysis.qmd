@@ -1,5 +1,5 @@
 ---
-title: "Analysis"
+title: "Analyses"
 ---
 
 # Machine learning & Spatial Modelling
