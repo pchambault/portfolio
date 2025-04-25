@@ -4,15 +4,15 @@ title: "Analyses"
 
 # Machine learning & Spatial Modelling
 Example of the analysis carried out to project the future distribution of Arctic cetaceans around Greenland based on satellite tracking data and climate models.
-<iframe src="Markdown/ScAdv2022_Climate_Proj_Summer_HadGEM3_6variables_ffs.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="Photos/ScAdv2022_Climate_Proj_Summer_HadGEM3_6variables_ffs.html" width="100%" height="600px" style="border:none;"></iframe>
 
 # Success rate & Acoustics
 Illustrative analysis exploring narwhal foraging success using stomach temperature pills, dive profiles, and acoustic tag data.
-<iframe src="Markdown/BioLett2022_Narwhals_STPs_Events_corrected.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="Photos/BioLett2022_Narwhals_STPs_Events_corrected.html" width="100%" height="600px" style="border:none;"></iframe>
 
 # Unsupervised Learnings
 Unsupervised learning approach using harbour porpoise dive data to classify distinct diving behaviours.
-<iframe src="Markdown/Dive_Clustering_Sequences_HP.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="Photos/Dive_Clustering_Sequences_HP.html" width="100%" height="600px" style="border:none;"></iframe>
 
 
 <!-- # Statistical Modelling -->
