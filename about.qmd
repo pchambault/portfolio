@@ -30,7 +30,7 @@ From international Academia to Private industry in Denmark, __data enthusiast sc
 :::
 
 
-## Experience
+# Experience
 
 **Marie Curie postdoc fellow**, Copenhagen, Denmark \| Greenland Institute of Natural Resources \| Oct 2023-Present
 
@@ -61,7 +61,7 @@ From international Academia to Private industry in Denmark, __data enthusiast sc
 <!-- **Greenland Institute of Natural Resources**, Denmark \| Postdoc fellow \| Oct 2017-Apr 2018 -->
 
 
-## Education
+# Education
 
 **University of Strasbourg** \| Strasbourg, France
 
@@ -76,7 +76,7 @@ MSc in Oceanography (2013)
 MSc in Agricultural Sciences & Agronomy (2011)
 
 
-## Contact
+# Contact
 
 <div>
 

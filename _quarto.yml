@@ -14,6 +14,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: analysis.qmd
+        text: Analysis
       - href: WARMM_project.qmd
         text: The WARMM project
       - href: publications2.qmd
