@@ -8,14 +8,12 @@ website:
     search: true
   navbar:
     left:
-      # - href: index.qmd
-      #   text: Home
       - href: about.qmd
         text: About
       - href: research.qmd
         text: Research
       - href: analysis.qmd
-        text: Analysis
+        text: Analyses
       - href: WARMM_project.qmd
         text: The WARMM project
       - href: publications2.qmd
