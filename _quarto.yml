@@ -1,4 +1,7 @@
+# project:
+#   type: website
 project:
+  output-dir: docs
   type: website
 
 website:
@@ -12,12 +15,16 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: analysis.qmd
-        text: Analyses
       - href: WARMM_project.qmd
         text: The WARMM project
+      - href: analyses.qmd
+        text: Analyses
       - href: publications2.qmd
         text: Publications
+      - href: conferences.qmd
+        text: Conferences
+      # - href: outreach.qmd
+      #   text: Outreach
       - href: cv.qmd
         text: CV
 
